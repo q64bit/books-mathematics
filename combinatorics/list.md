@@ -1,0 +1,2 @@
+- Combinatorial Reasoning - An introduction to the Art of Counting
+- Principles & Techniques in Combinatorics
